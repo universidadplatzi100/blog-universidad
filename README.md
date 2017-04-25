@@ -10,3 +10,5 @@ Blog Universidad
 [Uso]
 
 [Otra documentación necesaria]
+
+[Licencias]
